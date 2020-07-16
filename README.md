@@ -2,8 +2,6 @@
 
 Na mém githubu najdete především ukázky jednoduchých aplikací nebo ukázky využití technologií postavených nad NET Core.
 
-Pomáhám vývojářským týmům správně používat technologii ASP.NET Core a vytvářet špičkové aplikace a REST služby
-
 - ✨ osobní web: [https://www.miroslavholec.cz](https://www.miroslavholec.cz)
 - ✨ články a wiki: [https://www.miroslavholec.cz/blog](https://www.miroslavholec.cz/blog)
 - ✨ youtube videa: https://www.youtube.com/mirekholec
