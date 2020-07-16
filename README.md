@@ -22,5 +22,6 @@ Pomáhám vývojářským týmům správně používat technologii ASP.NET Core 
 
   
 
-Máte jakýkoliv dotaz? Potřebujete znát můj pohled na vybranou vývojářskou oblast nebo poradit? 
+Máte jakýkoliv dotaz? Potřebujete znát můj pohled na vybranou vývojářskou oblast nebo poradit?
+
 💬 Napište mi na **mirek@miroslavholec.cz**
