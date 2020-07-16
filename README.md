@@ -26,4 +26,4 @@ Máte jakýkoliv dotaz? Potřebujete znát můj pohled na vybranou vývojářsko
 
 💬 Napište mi na **mirek@miroslavholec.cz**
 
-<img src="https://lh3.googleusercontent.com/proxy/MEClhsd-mcJP2Tq6_etU8aWqiE4hDKDCoZFpb7SyDK6UG64JzhOL06LXRNnoFpCjuwynWY3ews2skgQvEJ8R4tDyBZuCPmd37Sl2TNyN7AaPUnGTZDjO_wnRvkKJ2sGidS-vG1JGIUj8vvwAL0JKGdxQExk-jgb3Kh4KgfVT9nVcSA" width="200" />
+<img src="https://lh3.googleusercontent.com/proxy/MEClhsd-mcJP2Tq6_etU8aWqiE4hDKDCoZFpb7SyDK6UG64JzhOL06LXRNnoFpCjuwynWY3ews2skgQvEJ8R4tDyBZuCPmd37Sl2TNyN7AaPUnGTZDjO_wnRvkKJ2sGidS-vG1JGIUj8vvwAL0JKGdxQExk-jgb3Kh4KgfVT9nVcSA" width="200" style="float:right" />
