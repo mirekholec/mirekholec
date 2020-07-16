@@ -1,16 +1,25 @@
-### Hi there 👋
+### Ahoj světe!
 
-<!--
-**mholec/mholec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Na mém githubu najdete především ukázky jednoduchých aplikací nebo ukázky využití technologií postavených nad NET Core.
 
-Here are some ideas to get you started:
+Pomáhám vývojářským týmům správně používat technologii ASP.NET Core a vytvářet špičkové aplikace a REST služby
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ✨ osobní web: [https://www.miroslavholec.cz](https://www.miroslavholec.cz)
+- ✨ články a wiki: [https://www.miroslavholec.cz/blog](https://www.miroslavholec.cz/blog)
+- ✨ youtube videa: https://www.youtube.com/mirekholec
+
+
+
+## S čím pomáhám vývojářům
+
+- 👨‍🎓 školím ve firmách [ASP.NET Core](https://www.miroslavholec.cz/skoleni/vyvoj-aplikaci-v-asp-net-core), [REST API](https://www.miroslavholec.cz/skoleni/asp-net-core-rest-api), [EF Core](https://www.miroslavholec.cz/skoleni/entity-framework-core) a [Blazor](https://www.miroslavholec.cz/skoleni/blazor-server-web-assembly)
+
+- 🌐 pravidelně pořádám [webináře](https://www.miroslavholec.cz/webinare)
+
+- 🤝 pomohu s architekturou aplikací formou vývoje i [konzultací](https://www.miroslavholec.cz/konzultace)
+
+- 🤝 poskytuji code review a doporučení pro vylepšení .NET Core aplikací
+
+  
+
+💬 Máte jakýkoliv dotaz? Potřebujete znát můj pohled na vybranou vývojářskou oblast nebo poradit? Napište mi na **mirek@miroslavholec.cz**
