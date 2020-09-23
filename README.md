@@ -14,9 +14,9 @@ Na mém githubu najdete především ukázky jednoduchých aplikací nebo ukázk
 
 - 🌐 pravidelně pořádám [webináře](https://www.miroslavholec.cz/webinare)
 
-- 🤝 pomohu s architekturou aplikací formou vývoje i [konzultací](https://www.miroslavholec.cz/konzultace)
+- 🤝 pomohu s [architekturou aplikací](https://www.miroslavholec.cz/architektura-rest-api) formou vývoje i [konzultací](https://www.miroslavholec.cz/konzultace)
 
-- 🤝 poskytuji code review a doporučení pro vylepšení .NET Core aplikací
+- 🤝 poskytuji [code reviews](https://www.miroslavholec.cz/konzultace) a doporučení pro vylepšení .NET Core aplikací
 
   
 
