@@ -21,3 +21,5 @@ Na mém githubu najdete především ukázky jednoduchých aplikací nebo ukázk
   
 
 Máte jakýkoliv dotaz? Potřebujete znát můj pohled na vybranou vývojářskou oblast nebo poradit? Napište mi na **mirek@miroslavholec.cz**
+
+https://vistr.dev/badge?repo=mholec.Infographics
