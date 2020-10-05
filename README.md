@@ -23,5 +23,5 @@ Na mém githubu najdete především ukázky jednoduchých aplikací nebo ukázk
 Máte jakýkoliv dotaz? Potřebujete znát můj pohled na vybranou vývojářskou oblast nebo poradit? Napište mi na **mirek@miroslavholec.cz**
 
 ![ss](https://vistr.dev/badge?repo=mholec.Infographics)
-[![](https://img.shields.io/badge/-@miroslavholec?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/miroslavholec)
-[![](https://img.shields.io/badge/-@mholec?style=flat-square&logo=github)](https://github.com/mholec)
+[![](https://img.shields.io/badge/@miroslavholec?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/miroslavholec)
+[![](https://img.shields.io/badge/@mholec?style=flat-square&logo=github)](https://github.com/mholec)
