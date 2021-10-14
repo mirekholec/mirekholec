@@ -1,4 +1,3 @@
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=mholec&show_icons=true&theme=dracula" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mholec&layout=compact" />
 
 
