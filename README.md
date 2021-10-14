@@ -1,3 +1,7 @@
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=mholec&show_icons=true&theme=dracula" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mholec&layout=compact" />
+
+
 ### Ahoj světe!
 
 Na mém githubu najdete především ukázky jednoduchých aplikací nebo ukázky využití technologií postavených nad NET Core.
