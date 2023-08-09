@@ -10,7 +10,7 @@ Na mém githubu najdete především ukázky jednoduchých aplikací nebo ukázk
 
 &nbsp; 🌐 články a wiki: [https://www.miroslavholec.cz/blog](https://www.miroslavholec.cz/blog)
 
-## Oblíbená školení
+
 
 | [![](https://www.miroslavholec.cz/img/poutaky/skoleni-net-7.png '')](https://www.miroslavholec.cz/skoleni/net-7-csharp-11-novinky-zmeny) | [![](https://www.miroslavholec.cz/img/poutaky/skoleni-rest-api-design.png '')](https://www.miroslavholec.cz/skoleni/rest-api-design) | [![](https://www.miroslavholec.cz/img/poutaky/skoleni-rest-api.png '')](https://www.miroslavholec.cz/skoleni/asp-net-core-rest-api) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
