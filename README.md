@@ -1,5 +1,25 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mholec&layout=compact" />
 
+<p>
+    <a target="_blank" href="https://wug.cz/prednasejici/195-Miroslav-Holec" rel="noreferrer">
+        <img src="/img/wug.png" alt="Přednášky v komunitě WUG">
+    </a>
+
+    <a target="_blank" href="https://www.youtube.com/mirekholec" rel="noreferrer">
+        <img src="/img/youtube.png" alt="YouTube záznamy přednášek">
+    </a>
+
+    <a target="_blank" href="https://www.twitter.com/miroslavholec" rel="noreferrer">
+        <img src="/img/twitter.png" alt="Twitter">
+    </a>
+
+    <a target="_blank" href="https://feeds.feedburner.com/miroslavholec" rel="noreferrer">
+        <img src="/img/rss.png" alt="RSS blogu">
+    </a>
+
+    
+</p>
+
 
 ### Ahoj světe!
 
