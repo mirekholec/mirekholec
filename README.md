@@ -6,9 +6,10 @@ Na mém githubu najdete především ukázky jednoduchých aplikací nebo ukázk
 [![](https://www.miroslavholec.cz/img/twitter.png '')](https://www.twitter.com/miroslavholec)
 
 
-&nbsp; 🌐 osobní web: [https://www.miroslavholec.cz](https://www.miroslavholec.cz)   
-
-&nbsp; 🌐 články a wiki: [https://www.miroslavholec.cz/blog](https://www.miroslavholec.cz/blog)
+- osobní web: [https://www.miroslavholec.cz](https://www.miroslavholec.cz)   
+- články: [https://www.miroslavholec.cz/blog](https://www.miroslavholec.cz/blog)
+- průvodce designem REST API [https://www.restapi.cz](https://www.restapi.cz)
+- vývojářské novinky [https://www.dotnetnews.cz](https://www.dotnetnews.cz)
 
 
 
