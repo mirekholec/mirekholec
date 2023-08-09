@@ -2,8 +2,8 @@
 
 Na mém githubu najdete především ukázky jednoduchých aplikací nebo ukázky využití technologií postavených nad novým NET.
 
-[![](https://www.miroslavholec.cz/img/youtube.png  | height=20)](https://www.youtube.com/mirekholec)
-[![](https://www.miroslavholec.cz/img/twitter.png  | height=20)](https://www.twitter.com/miroslavholec)
+[![](https://www.miroslavholec.cz/img/youtube.png | height=20)](https://www.youtube.com/mirekholec)
+[![](https://www.miroslavholec.cz/img/twitter.png | height=20)](https://www.twitter.com/miroslavholec)
 
 
 &nbsp; 🌐 osobní web: [https://www.miroslavholec.cz](https://www.miroslavholec.cz)   
