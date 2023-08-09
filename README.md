@@ -4,11 +4,11 @@ Na mém githubu najdete především ukázky jednoduchých aplikací nebo ukázk
 
 [![](https://www.miroslavholec.cz/img/youtube.png)](https://www.youtube.com/mirekholec)
 [![](https://www.miroslavholec.cz/img/twitter.png)](https://www.twitter.com/miroslavholec)
-&nbsp; 
+
 
 &nbsp; 🌐 osobní web: [https://www.miroslavholec.cz](https://www.miroslavholec.cz)   
-&nbsp; 🌐 články a wiki: [https://www.miroslavholec.cz/blog](https://www.miroslavholec.cz/blog)
 
+&nbsp; 🌐 články a wiki: [https://www.miroslavholec.cz/blog](https://www.miroslavholec.cz/blog)
 
 ## Oblíbená školení
 
