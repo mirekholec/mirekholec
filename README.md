@@ -1,6 +1,6 @@
 ## Ahoj světe 👋
 
-Na mém githubu najdete především ukázky jednoduchých aplikací nebo ukázky využití technologií postavených nad novým NET.
+Na mém githubu najdete především ukázky jednoduchých aplikací nebo ukázky využití technologií postavených nad novým NET. 
 
 [![](https://www.miroslavholec.cz/img/youtube.png '')](https://www.youtube.com/mirekholec)
 [![](https://www.miroslavholec.cz/img/twitter.png '')](https://www.twitter.com/miroslavholec)
@@ -8,8 +8,8 @@ Na mém githubu najdete především ukázky jednoduchých aplikací nebo ukázk
 
 - osobní web: [https://www.miroslavholec.cz](https://www.miroslavholec.cz)   
 - články: [https://www.miroslavholec.cz/blog](https://www.miroslavholec.cz/blog)
-- průvodce designem REST API [https://www.restapi.cz](https://www.restapi.cz)
-- vývojářské novinky [https://www.dotnetnews.cz](https://www.dotnetnews.cz)
+- průvodce designem REST API: [https://www.restapi.cz](https://www.restapi.cz)
+- vývojářské novinky: [https://www.dotnetnews.cz](https://www.dotnetnews.cz)
 
 
 
