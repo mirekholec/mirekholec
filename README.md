@@ -14,9 +14,9 @@ Na mém githubu najdete především ukázky jednoduchých aplikací nebo ukázk
 
 
 
-| [![](https://www.miroslavholec.cz/images/poutaky/skoleni-net-8.png?v=2 '')](https://www.miroslavholec.cz/skoleni/net-8-csharp-12-novinky-zmeny) | [![](https://www.miroslavholec.cz/images/poutaky/skoleni-rest-api-design.png '')](https://www.miroslavholec.cz/skoleni/rest-api-design) | [![](https://www.miroslavholec.cz/images/poutaky/skoleni-rest-api.png '')](https://www.miroslavholec.cz/skoleni/asp-net-core-rest-api) |
+| [![](https://www.miroslavholec.cz/images/poutaky/skoleni-net8.png?v=2 '')](https://www.miroslavholec.cz/skoleni/net-8-csharp-12-novinky-zmeny) | [![](https://www.miroslavholec.cz/images/poutaky/skoleni-dsgn.png '')](https://www.miroslavholec.cz/skoleni/rest-api-design) | [![](https://www.miroslavholec.cz/images/poutaky/skoleni-rest.png '')](https://www.miroslavholec.cz/skoleni/asp-net-core-rest-api) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [![](https://www.miroslavholec.cz/images/poutaky/skoleni-blazor.png '')](https://www.miroslavholec.cz/skoleni/blazor-server-web-assembly) | [![](https://www.miroslavholec.cz/images/poutaky/skoleni-asp-net-core.png '')](https://www.miroslavholec.cz/skoleni/vyvoj-aplikaci-v-asp-net-core) | [![](https://www.miroslavholec.cz/images/poutaky/skoleni-minimal-apis.png?v=2 '')](https://www.miroslavholec.cz/skoleni/minimal-api-clean-architecture) |
+| [![](https://www.miroslavholec.cz/images/poutaky/blzr.png '')](https://www.miroslavholec.cz/skoleni/blazor-server-web-assembly) | [![](https://www.miroslavholec.cz/images/poutaky/core.png?v=2 '')](https://www.miroslavholec.cz/skoleni/vyvoj-aplikaci-v-asp-net-core) | [![](https://www.miroslavholec.cz/images/poutaky/mini.png?v=2 '')](https://www.miroslavholec.cz/skoleni/minimal-api-clean-architecture) |
 
 
 
