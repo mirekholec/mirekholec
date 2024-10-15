@@ -3,7 +3,6 @@
 Na mém githubu najdete především ukázky jednoduchých aplikací nebo ukázky využití technologií postavených nad novým NET. 
 
 [![](https://www.miroslavholec.cz/img/youtube.png '')](https://www.youtube.com/mirekholec)
-[![](https://www.miroslavholec.cz/img/podcast.png '')](https://podcast.miroslavholec.cz)
 
 
 - osobní web: [https://www.miroslavholec.cz](https://www.miroslavholec.cz)   
