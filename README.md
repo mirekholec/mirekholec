@@ -28,7 +28,4 @@ Máte jakýkoliv dotaz? Potřebujete znát můj pohled na vybranou vývojářsko
 
 ## Statistiky
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mholec/github-stats-transparent/output/generated/overview.svg" alt="" /> 
-  <img src="https://raw.githubusercontent.com/mholec/github-stats-transparent/output/generated/languages.svg" alt="" />
-</p>
+![Miroslav Holec](https://github-readme-stats.vercel.app/api?username=mholec&show_icons=true&bg_color=ffffffff)
