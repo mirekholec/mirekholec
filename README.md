@@ -27,4 +27,10 @@ Na mém githubu najdete především ukázky jednoduchých aplikací nebo ukázk
 Máte jakýkoliv dotaz? Potřebujete znát můj pohled na vybranou vývojářskou oblast nebo poradit? Napište mi na **mirek@miroslavholec.cz**
 
 ## Statistiky
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mholec&layout=compact" />
+<div style="float:left">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mholec&layout=compact" />  
+</div>
+<div style="float:right">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mholec&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+</div>
+
