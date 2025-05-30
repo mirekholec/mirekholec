@@ -28,8 +28,7 @@ Máte jakýkoliv dotaz? Potřebujete znát můj pohled na vybranou vývojářsko
 
 ## Statistiky
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mholec&layout=compact" />  
-
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mholec&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
-
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mholec/github-stats-transparent/output/generated/overview.svg" alt="" /> 
+  <img src="https://raw.githubusercontent.com/mholec/github-stats-transparent/output/generated/languages.svg" alt="" />
+</p>
