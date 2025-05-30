@@ -1,17 +1,21 @@
-## Vítejte na mém GitHubu! 👋
+## Vítejte na mém GitHubu!
 
 Na tomto profilu najdete především ukázky jednoduchých aplikací a ukázky využití technologií postavených na moderním dotnetu. Specializuji se na platformu .NET a zejména na vývoj webových služeb (REST API) a webových aplikací v Blazoru. Firmám poskytuji konzultace a školení zaměřená na vývojářské technologie.
 
+- pravidelně přednáším na největších .NET konferencích
+- 8x oceněn jako Microsoft MVP za oblast Web Development
+- certifikace MS, MTA, MCSD, MCSA, převážně webový vývoj
 
-[![](https://www.miroslavholec.cz/img/youtube.png '')](https://www.youtube.com/mirekholec)
+> Máte dotaz nebo potřebujete poradit? Napište mi na **mirek@miroslavholec.cz**
 
+### Rozcestník
+- [https://www.miroslavholec.cz](https://www.miroslavholec.cz) (osobní web)
+- [https://www.miroslavholec.cz/blog](https://www.miroslavholec.cz/blog) (články)
+- [https://www.youtube.com/mirekholec](https://www.youtube.com/mirekholec) (videa)
+- [https://www.restapi.cz](https://www.restapi.cz) (průvodce designem REST API)
+- [https://www.dotnetnews.cz](https://www.dotnetnews.cz) (vývojářské novinky)
 
-- osobní web: [https://www.miroslavholec.cz](https://www.miroslavholec.cz)   
-- články: [https://www.miroslavholec.cz/blog](https://www.miroslavholec.cz/blog)
-- průvodce designem REST API: [https://www.restapi.cz](https://www.restapi.cz)
-- vývojářské novinky: [https://www.dotnetnews.cz](https://www.dotnetnews.cz)
-
-## Školení
+## 🧑‍🎓 Školení
 
 - [ASP.NET Core](https://www.miroslavholec.cz/skoleni/asp-net-core)
 - [Entity Framework Core](https://www.miroslavholec.cz/skoleni/entity-framework-core)
@@ -21,10 +25,3 @@ Na tomto profilu najdete především ukázky jednoduchých aplikací a ukázky 
 - [Vývoj REST API v .NET](https://www.miroslavholec.cz/skoleni/vyvoj-rest-api-v-net)
 - **[Vývoj s GPT a Copilot v .NET](https://www.miroslavholec.cz/skoleni/vyvoj-gpt-copilot-net)**
 - **[Entity Framework pro pokročilé](https://www.miroslavholec.cz/skoleni/entity-framework-pro-pokrocile)**
-  
-
-Máte jakýkoliv dotaz? Potřebujete znát můj pohled na vybranou vývojářskou oblast nebo poradit? Napište mi na **mirek@miroslavholec.cz**
-
-## Statistiky
-
-![Miroslav Holec](https://github-readme-stats.vercel.app/api?username=mholec&show_icons=true&bg_color=ffffffff)
