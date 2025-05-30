@@ -25,3 +25,10 @@ Na tomto profilu najdete především ukázky jednoduchých aplikací a ukázky 
 - [Vývoj REST API v .NET](https://www.miroslavholec.cz/skoleni/vyvoj-rest-api-v-net)
 - **[Vývoj s GPT a Copilot v .NET](https://www.miroslavholec.cz/skoleni/vyvoj-gpt-copilot-net)**
 - **[Entity Framework pro pokročilé](https://www.miroslavholec.cz/skoleni/entity-framework-pro-pokrocile)**
+
+<br/> 
+
+> [!TIP]
+> **Pomáhám dětem se vzácným onemocněním**
+> 
+> Jsem zakladatelem [ADNP asociace](https://adnpasociace.cz), která podporuje děti s ADNP syndromem. Cílem asociace je zvyšovat povědomí, zajišťovat odborné informace, podporovat výzkum a propojovat rodiny i odborníky. Naši asociaci můžete podpořit jako firmy i jednotlivci například na platformě [Darujme](https://www.darujme.cz/darovat/1211106?frequency=once&widget=1205194).
