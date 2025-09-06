@@ -8,6 +8,9 @@ Na tomto profilu najdete především ukázky jednoduchých aplikací a ukázky 
 
 > Máte dotaz nebo potřebujete poradit? Napište mi na **mirek@miroslavholec.cz**
 
+### REST API Design 🇺🇸
+- [https://apidesign.guide](https://apidesign.guide) (REST API Design Guide)
+
 ### GitHub Copilot
 - [https://skolenicopilot.cz](skolenicopilot.cz) (školení GitHub Copilot)
 
