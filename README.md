@@ -8,6 +8,9 @@ Na tomto profilu najdete především ukázky jednoduchých aplikací a ukázky 
 
 > Máte dotaz nebo potřebujete poradit? Napište mi na **mirek@miroslavholec.cz**
 
+### GitHub Copilot
+- [https://skolenicopilot.cz](skolenicopilot.cz) (školení GitHub Copilot)
+
 ### Rozcestník
 - [https://www.miroslavholec.cz](https://www.miroslavholec.cz) (osobní web)
 - [https://www.miroslavholec.cz/blog](https://www.miroslavholec.cz/blog) (články)
