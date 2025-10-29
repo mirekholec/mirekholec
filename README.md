@@ -16,10 +16,16 @@ Although I create platform-independent content, my home platform is Microsoft .N
 Got a question or need help? Email me at **mirek@miroslavholec.cz**
 
 
+> [!TIP]  
+> **Helping children with rare diseases**  
+>  
+> I am the founder of the [ADNP Association](https://adnpasociace.cz), which supports children with ADNP syndrome. The association’s mission is to raise awareness, provide expert information, support research, and connect families and professionals. You can support our association as a company or an individual, for example through the [Darujme platform](https://www.darujme.cz/darovat/1211106?frequency=once&widget=1205194).
+
+
 
 ---
 
-## 🇨🇿 Resources for Czech developers 
+## 🇨🇿 Pro české vývojáře
 
 - [https://www.miroslavholec.cz](https://www.miroslavholec.cz) (osobní web)
 - [https://www.miroslavholec.cz/blog](https://www.miroslavholec.cz/blog) (články)
@@ -42,9 +48,3 @@ Got a question or need help? Email me at **mirek@miroslavholec.cz**
 - [Vývoj REST API v .NET](https://www.miroslavholec.cz/skoleni/vyvoj-rest-api-v-net)
 - [Vývoj s GPT a Copilot v .NET](https://www.miroslavholec.cz/skoleni/vyvoj-gpt-copilot-net)
 - [Entity Framework pro pokročilé](https://www.miroslavholec.cz/skoleni/entity-framework-pro-pokrocile)
-
-> [!TIP]  
-> **Helping children with rare diseases**  
->  
-> I am the founder of the [ADNP Association](https://adnpasociace.cz), which supports children with ADNP syndrome. The association’s mission is to raise awareness, provide expert information, support research, and connect families and professionals. You can support our association as a company or an individual, for example through the [Darujme platform](https://www.darujme.cz/darovat/1211106?frequency=once&widget=1205194).
-
