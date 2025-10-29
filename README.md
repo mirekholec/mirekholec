@@ -21,7 +21,6 @@ Got a question or need help? Email me at **mirek@miroslavholec.cz**
 
 ## 🇨🇿 Resources for Czech developers 
 
-### Rozcestník
 - [https://www.miroslavholec.cz](https://www.miroslavholec.cz) (osobní web)
 - [https://www.miroslavholec.cz/blog](https://www.miroslavholec.cz/blog) (články)
 - [https://www.youtube.com/mirekholec](https://www.youtube.com/mirekholec) (videa)
@@ -33,7 +32,7 @@ Got a question or need help? Email me at **mirek@miroslavholec.cz**
 - [https://www.miroslavholec.cz/skoleni/vyvoj-gpt-copilot-net](https://www.miroslavholec.cz/skoleni/vyvoj-gpt-copilot-net) (školení GitHub Copilot pro .NET vývojáře)
 
 
-### Školení
+### Školení .NET
 
 - [ASP.NET Core](https://www.miroslavholec.cz/skoleni/asp-net-core)
 - [Entity Framework Core](https://www.miroslavholec.cz/skoleni/entity-framework-core)
