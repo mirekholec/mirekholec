@@ -2,7 +2,7 @@
 
 I’m **Miroslav Holec**, [Microsoft MVP](https://mvp.microsoft.com/en-US/MVP/profile/b1e68991-de7e-e611-80f8-c4346badb51c) ⚡️
 
-Independent software consultant from the Czech Republic, specializing in REST API design and developer productivity with GitHub Copilot. Besides my community activities at home, I also create worldwide content. You can check out my videos on [YouTube](https://www.youtube.com/@mirekholecdev) or visit [my website](https://www.mirekholec.dev) for more content.
+Independent software consultant from the Czech Republic, specializing in REST API design and developer productivity with GitHub Copilot. Besides my community activities at home, I also create worldwide content. You can check out my videos on [YouTube](https://www.youtube.com/@mirekholec) or visit [my website](https://holec.ai) for more content.
 
 Although I create platform-independent content, my home platform is Microsoft .NET, which I truly enjoy working with.
 
@@ -28,6 +28,7 @@ Got a question or need help? Email me at **mirek@miroslavholec.cz**
 ## 🇨🇿 Pro české vývojáře
 
 - [https://www.miroslavholec.cz](https://www.miroslavholec.cz) (osobní web)
+- [https://www.holec.ai](https://holec.ai) (github copilot)
 - [https://www.miroslavholec.cz/blog](https://www.miroslavholec.cz/blog) (články)
 - [https://www.youtube.com/mirekholec](https://www.youtube.com/mirekholec) (videa)
 - [https://www.restapi.cz](https://www.restapi.cz) (průvodce designem REST API)
