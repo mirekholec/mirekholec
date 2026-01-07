@@ -34,7 +34,7 @@ Got a question or need help? Email me at **mirek@miroslavholec.cz**
 - [https://www.dotnetnews.cz](https://www.dotnetnews.cz) (vývojářské novinky)
 
 ### Školení GitHub Copilot
-- [https://skolenicopilot.cz](https://skolenicopilot.cz) (školení GitHub Copilot + VS Code)
+- [https://holec.ai](https://holec.ai) (školení GitHub Copilot + VS Code)
 - [https://www.miroslavholec.cz/skoleni/vyvoj-gpt-copilot-net](https://www.miroslavholec.cz/skoleni/vyvoj-gpt-copilot-net) (školení GitHub Copilot pro .NET vývojáře)
 
 
