@@ -10,7 +10,7 @@ Although I create platform-independent content, my home platform is Microsoft .N
 - ⚡️ 9× Microsoft MVP (Web Development)
 - 🌟 Microsoft certifications, MTA, MCSD, MCSA, primarily web development
 - 📝 [REST API Design Guide](https://www.mirekholec.dev/rest-api-guide/)
-- 🎥 [YouTube Videos (GitHub Copilot)](https://www.youtube.com/@mirekholecdev)
+- 🎥 [YouTube Videos (GitHub Copilot)](https://www.youtube.com/@mirekholec)
 - 🌐 [Bsky](https://bsky.app/profile/mirekholec.dev)
 
 Got a question or need help? Email me at **mirek@miroslavholec.cz**
