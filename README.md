@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I’m **Miroslav Holec**, [Microsoft MVP](https://mvp.microsoft.com/en-US/MVP/profile/b1e68991-de7e-e611-80f8-c4346badb51c) ⚡️ focused on [GitHub Copilot](https://holec.ai) and .NET framework(https://www.miroslavholec.cz).
+I’m **Miroslav Holec**, [Microsoft MVP](https://mvp.microsoft.com/en-US/MVP/profile/b1e68991-de7e-e611-80f8-c4346badb51c) ⚡️ focused on [GitHub Copilot](https://holec.ai) and [.NET Framework](https://www.miroslavholec.cz).
 
 Independent software consultant from the Czech Republic, specializing in REST API design and developer productivity with GitHub Copilot. Besides my community activities at home, I also create worldwide content. You can check out my videos on [YouTube](https://www.youtube.com/@mirekholec) or visit [my website](https://holec.ai) for more content.
 
