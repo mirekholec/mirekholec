@@ -8,9 +8,9 @@ Pomáhám vývojářům a firmám efektivně využívat AI agenty při vývoji s
 
 Poskytuji firmám školení, konzultace a přednášky. Sdílím praktické zkušenosti, novinky a postupy, které pomáhají vývojářům využívat AI naplno.
 
-- **[Školení pro vývojáře a firmy](https://holec.ai/firemni-skoleni)** – AI agenti, GitHub Copilot a Claude Code
+- **[Školení pro vývojáře a firmy](https://holec.ai/firemni-skoleni?utm_source=gh)** – AI agenti, GitHub Copilot a Claude Code
 - **[YouTube](https://www.youtube.com/@mirekholec)** – videa, návody a novinky ze světa AI vývoje
-- **[Holec.ai PLUS+](https://holec.ai/plus)** – články, newsletter a další obsah pro vývojáře zdarma
+- **[Holec.ai PLUS+](https://holec.ai/plus?utm_source=gh)** – články, newsletter a další obsah pro vývojáře zdarma
 - **Přednášky a konference** – pravidelně vystupuji na českých vývojářských konferencích
 
 > [!NOTE]
@@ -20,5 +20,5 @@ Poskytuji firmám školení, konzultace a přednášky. Sdílím praktické zku�
 
 Vedle AI se historicky věnuji vývoji aplikací na platformě **Microsoft .NET**, architektuře softwaru a návrhu **REST API**.
 
-- [miroslavholec.cz](https://www.miroslavholec.cz) – osobní web a články o .NET
-- [restapi.cz](https://www.restapi.cz) – průvodce návrhem REST API
+- [miroslavholec.cz](https://www.miroslavholec.cz?utm_source=gh) – osobní web a články o .NET
+- [restapi.cz](https://www.restapi.cz?utm_source=gh) – průvodce návrhem REST API
