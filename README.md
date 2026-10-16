@@ -1,6 +1,4 @@
-## Hi there 👋
-
-I'm **Miroslav Holec**, a [Microsoft MVP](https://mvp.microsoft.com/en-US/MVP/profile/b1e68991-de7e-e611-80f8-c4346badb51c) and independent software consultant from the Czech Republic. I focus on software development with AI coding agents, primarily GitHub Copilot and Claude Code.
+Hi there 👋 I'm **Miroslav Holec**, a [Microsoft MVP](https://mvp.microsoft.com/en-US/MVP/profile/b1e68991-de7e-e611-80f8-c4346badb51c) and independent software consultant from the Czech Republic. I focus on software development with AI coding agents, primarily GitHub Copilot and Claude Code.
 
 ---
 
