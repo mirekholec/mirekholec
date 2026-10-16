@@ -15,7 +15,7 @@ Poskytuji firmám školení, konzultace a přednášky. Sdílím praktické zku�
 - **[Holec.ai PLUS+](https://holec.ai/plus)** – články, newsletter a další obsah pro vývojáře zdarma
 - **Přednášky a konference** – pravidelně vystupuji na českých vývojářských konferencích
 
-> [!INFO]
+> [!NOTE]
 > Pro spolupráci a konzultace mě kontaktujte na **mirek@miroslavholec.cz**.
 
 ### Další technologické zaměření
