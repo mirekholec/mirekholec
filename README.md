@@ -24,9 +24,3 @@ Vedle AI se historicky věnuji vývoji aplikací na platformě **Microsoft .NET*
 
 - [miroslavholec.cz](https://www.miroslavholec.cz) – osobní web a články o .NET
 - [restapi.cz](https://www.restapi.cz) – průvodce návrhem REST API
-
-
-> ### Podpora dětí se vzácným onemocněním
-> Jsem zakladatelem a předsedou [ADNP asociace](https://adnpasociace.cz), která pomáhá dětem se vzácným genetickým ADNP syndromem a jejich rodinám.
-> Naším cílem je šířit povědomí o onemocnění, poskytovat odborné informace, podporovat výzkum a propojovat rodiny s odborníky.
-> 💙 Naši činnost můžete podpořit prostřednictvím [Darujme.cz](https://www.darujme.cz/darovat/1211106?frequency=once&widget=1205194).
