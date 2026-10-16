@@ -4,7 +4,7 @@ I'm **Miroslav Holec**, a [Microsoft MVP](https://mvp.microsoft.com/en-US/MVP/pr
 
 ---
 
-## Vývoj softwaru s AI agenty
+## 🤖 Vývoj softwaru s AI agenty
 
 Pomáhám vývojářům a firmám efektivně využívat AI agenty při vývoji softwaru. Zaměřuji se především na **GitHub Copilot a Claude Code**, agentní workflow, context engineering a integraci AI nástrojů do každodenního vývoje.
 
