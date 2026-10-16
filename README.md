@@ -1,36 +1,35 @@
 ## Hi there 👋
 
-I’m **Miroslav Holec**, [Microsoft MVP](https://mvp.microsoft.com/en-US/MVP/profile/b1e68991-de7e-e611-80f8-c4346badb51c) ⚡️ focused on [GitHub Copilot](https://holec.ai) and [.NET Framework](https://www.miroslavholec.cz).
-
-Independent software consultant from the Czech Republic, specializing in REST API design and developer productivity with GitHub Copilot. You can check out my videos on [YouTube](https://www.youtube.com/@mirekholec) or visit [my website](https://holec.ai) for more content.
-
-Although I create platform-independent content, my home platform is Microsoft .NET, which I truly enjoy working with.
-
-- 🗣️ I regularly speak at major Czech .NET conferences
-- ⚡️ 9× Microsoft MVP (Web Development)
-- 🌟 Microsoft certifications, MTA, MCSD, MCSA, primarily web development
-- 🎥 [YouTube Videos (GitHub Copilot)](https://www.youtube.com/@mirekholec)
-
-Got a question or need help? Email me at **mirek@miroslavholec.cz**
-
-
-> [!TIP]  
-> **Helping children with rare diseases**  
->  
-> I am the founder of the [ADNP Association](https://adnpasociace.cz), which supports children with ADNP syndrome. The association’s mission is to raise awareness, provide expert information, support research, and connect families and professionals. You can support our association as a company or an individual, for example through the [Darujme platform](https://www.darujme.cz/darovat/1211106?frequency=once&widget=1205194).
-
-
+I'm **Miroslav Holec**, a [Microsoft MVP](https://mvp.microsoft.com/en-US/MVP/profile/b1e68991-de7e-e611-80f8-c4346badb51c) and independent software consultant from the Czech Republic. I focus on software development with AI coding agents, primarily GitHub Copilot and Claude Code.
 
 ---
 
-## 🇨🇿 Pro české vývojáře
+## 🇨🇿 Vývoj softwaru s AI agenty
 
-- [https://www.miroslavholec.cz](https://www.miroslavholec.cz) (osobní web)
-- [https://www.holec.ai](https://holec.ai) (github copilot)
-- [https://www.miroslavholec.cz/blog](https://www.miroslavholec.cz/blog) (články)
-- [https://www.youtube.com/mirekholec](https://www.youtube.com/mirekholec) (videa)
-- [https://www.restapi.cz](https://www.restapi.cz) (průvodce designem REST API)
-- [https://www.dotnetnews.cz](https://www.dotnetnews.cz) (vývojářské novinky)
+Pomáhám vývojářům a firmám efektivně využívat AI agenty při vývoji softwaru. Zaměřuji se především na **GitHub Copilot a Claude Code**, agentní workflow, context engineering a integraci AI nástrojů do každodenního vývoje.
 
-### Školení GitHub Copilot
-- [https://holec.ai](https://holec.ai) (školení GitHub Copilot + VS Code)
+Poskytuji firmám školení, konzultace a přednášky. Sdílím praktické zkušenosti, novinky a postupy, které pomáhají vývojářům využívat AI naplno.
+
+- 🎓 **[Školení pro vývojáře a firmy](https://holec.ai/firemni-skoleni)** – AI agenti, GitHub Copilot a Claude Code
+- 🎥 **[YouTube](https://www.youtube.com/@mirekholec)** – videa, návody a novinky ze světa AI vývoje
+- 📰 **[Holec.ai PLUS+](https://holec.ai/plus)** – články, newsletter a další obsah pro vývojáře zdarma
+- 🎤 **Přednášky a konference** – pravidelně vystupuji na českých vývojářských konferencích
+
+Pro spolupráci a konzultace mě kontaktujte na **mirek@miroslavholec.cz**.
+
+### Podpora dětí se vzácným onemocněním
+
+Jsem zakladatelem a předsedou [ADNP asociace](https://adnpasociace.cz), která pomáhá dětem se vzácným genetickým ADNP syndromem a jejich rodinám.
+
+Naším cílem je šířit povědomí o onemocnění, poskytovat odborné informace, podporovat výzkum a propojovat rodiny s odborníky.
+
+💙 Naši činnost můžete podpořit prostřednictvím [Darujme.cz](https://www.darujme.cz/darovat/1211106?frequency=once&widget=1205194).
+
+---
+
+### Další technologické zaměření
+
+Vedle AI se historicky věnuji vývoji aplikací na platformě **Microsoft .NET**, architektuře softwaru a návrhu **REST API**.
+
+- [miroslavholec.cz](https://www.miroslavholec.cz) – osobní web a články o .NET
+- [restapi.cz](https://www.restapi.cz) – průvodce návrhem REST API
